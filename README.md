@@ -1,2 +1,2 @@
 Texto alterado no repositorio local
-Testo alterado via github web.
+Texto alterado via github web.
